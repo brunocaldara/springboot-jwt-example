@@ -1,3 +1,13 @@
-/home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/config/SecurityConfig.java
-/home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/JwtExampleApplication.java
 /home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/controller/HelloController.java
+/home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/repository/UserRepository.java
+/home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/config/jwt/AuthEntryPointJwt.java
+/home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/service/UserDetailsImpl.java
+/home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/config/SecurityConfig.java
+/home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/model/User.java
+/home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/model/Role.java
+/home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/JwtExampleApplication.java
+/home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/util/JwtUtils.java
+/home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/repository/RoleRepository.java
+/home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/config/jwt/AuthTokenFilter.java
+/home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/service/UserDetailsServiceImpl.java
+/home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/model/UserRole.java

@@ -1,3 +1,13 @@
-com/example/demo/controller/HelloController.class
+com/example/demo/config/jwt/AuthTokenFilter.class
+com/example/demo/repository/RoleRepository.class
+com/example/demo/repository/UserRepository.class
 com/example/demo/JwtExampleApplication.class
+com/example/demo/model/Role.class
+com/example/demo/util/JwtUtils.class
+com/example/demo/model/UserRole.class
+com/example/demo/service/UserDetailsImpl.class
+com/example/demo/controller/HelloController.class
 com/example/demo/config/SecurityConfig.class
+com/example/demo/service/UserDetailsServiceImpl.class
+com/example/demo/config/jwt/AuthEntryPointJwt.class
+com/example/demo/model/User.class
