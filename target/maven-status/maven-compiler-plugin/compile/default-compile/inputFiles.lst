@@ -1,3 +1,5 @@
+/home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/dto/LoginDto.java
+/home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/dto/RegisterDto.java
 /home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/config/WebSecurityConfig.java
 /home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/controller/HelloController.java
 /home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/repository/UserRepository.java
@@ -11,3 +13,5 @@
 /home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/config/jwt/AuthTokenFilter.java
 /home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/service/UserDetailsServiceImpl.java
 /home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/model/UserRole.java
+/home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/controller/AuthController.java
+/home/bruno/Projects/brunocaldara/springboot-jwt-example/src/main/java/com/example/demo/dto/JwtDto.java
